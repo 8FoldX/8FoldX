@@ -1,8 +1,7 @@
-# Micro-Template Name
+# 8FoldX
 
 A reusable UI micro-template for modern web apps.
 
-**Stack:** Next.js · TypeScript · Tailwind CSS  
 **Use:** SaaS · Dashboard · Startup  
 **License:** MIT / Commercial  
 
