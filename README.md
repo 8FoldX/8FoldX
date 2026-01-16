@@ -1,4 +1,4 @@
-# 8FoldX
+# EightFoldX
 
 A reusable UI micro-template for modern web apps.
 
