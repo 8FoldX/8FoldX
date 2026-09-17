@@ -10,7 +10,6 @@
   <strong>Trusted Crowdfunding for Meaningful Causes</strong>
 </p>
 
-## Overview
 
 Social Angel is a crowdfunding platform designed to connect people who need financial support with donors and communities willing to help.
 
