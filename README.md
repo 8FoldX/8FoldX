@@ -29,24 +29,11 @@ The platform focuses on making fundraising and giving easier, clearer, and more 
 
 > Build a trusted crowdfunding platform where giving is simple, transparent, and connected to real community needs.
 
-## Crowdfunding Journey
-
-1. Create a fundraiser.
-2. Share the fundraiser with supporters.
-3. Discover and explore fundraising campaigns.
-4. Make donations securely.
-5. Monitor campaign progress.
-6. Support meaningful social causes.
 
 ## Community
 
 Social Angel brings together fundraisers, donors, supporters, and communities around causes that matter.
 
-## Project Focus
-
-The **social-angel-org** project is focused on building and improving the Social Angel crowdfunding experience.
-
-Project-specific setup, architecture, development, testing, and deployment documentation can be added here as the project evolves.
 
 ---
 
